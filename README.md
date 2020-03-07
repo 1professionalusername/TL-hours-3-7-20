@@ -7,4 +7,6 @@
 
 3. Make .gitignore file
 
-4. 
+4. Make index.js, server.js, nodemon & data folder
+
+5. Make todosRouter
